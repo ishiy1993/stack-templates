@@ -14,3 +14,10 @@ Extra
 - ChangeLog.md
 - LICENSE
 - .gitignore
+
+## Usage
+
+```
+$ stack new hoge ishiy1993/app
+$ stack new hoge ishiy1993/lib
+```
